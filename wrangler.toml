@@ -4,5 +4,4 @@
 name = "astro-rocket"
 compatibility_date = "2026-01-31"
 
-[site]
-bucket = "./dist"
+pages_build_output_dir = "./dist/client"
