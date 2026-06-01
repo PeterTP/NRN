@@ -135,7 +135,7 @@ const siteConfig: SiteConfig = {
     country: 'UK',
   },
   socialLinks: [
-    'https://github.com/PeterTP',
+    'https://github.com/Neuromorphic-Research-Nexus',
     // 'https://x.com/hansmartens_dev',
     // 'https://www.linkedin.com',
     // 'https://bsky.app/profile/hansmartensdev.bsky.social',
